@@ -1,0 +1,46 @@
+.ngimage {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo {
+  height: 150px;
+  width: 200px;
+  margin-right: 300px;
+}
+li {
+  display: inline-block;
+  color: white;
+  margin-left: 50px;
+}
+.div1 {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: blue;
+}
+.para {
+  padding-top: ;
+  color: white;
+  padding-top: 350px;
+  padding-left: 100px;
+  display: flex;
+}
+h5 {
+  color: WHITE;
+  /* padding-left: 1000px;
+   padding-top: 300px;  */
+  font-weight: normal;
+  font-family: cursive;
+  font-size: 20px;
+}
+.para1 {
+  margin-right: 800px;
+}
